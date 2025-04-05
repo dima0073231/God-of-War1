@@ -1,9 +1,12 @@
-<<<<<<< Updated upstream
+
 @import "./utils/variables";
 
 @import "./base/common";
 @import "./base/reset";
-=======
+
 @import "./base/common";
 @import "./components/dual";
->>>>>>> Stashed changes
+
+@import "./base/common";
+@import "../partails/dual.html";
+
